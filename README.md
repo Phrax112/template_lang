@@ -1,2 +1,3 @@
-# template_lang
+Quick exploration of how to create an interpreted language using C a la q/kdb+
  
+ Inspiration taken from a book I have long forgotten the name of ...
